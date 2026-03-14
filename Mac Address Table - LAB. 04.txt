@@ -1,0 +1,11 @@
+          Mac Address Table - LAB. 04
+-------------------------------------------
+
+Vlan    Mac Address       Type        Ports
+----    -----------       --------    -----
+
+   1    0004.9aea.80b3    DYNAMIC     Fa0/2
+   1    000c.852b.3832    DYNAMIC     Fa0/5
+   1    000c.cfca.b8c4    DYNAMIC     Fa0/1
+   1    0040.0bac.7272    DYNAMIC     Fa0/3
+   1    0060.47aa.9581    DYNAMIC     Fa0/4
